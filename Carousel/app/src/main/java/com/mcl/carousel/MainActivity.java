@@ -10,13 +10,9 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 import cn.bingoogolapple.bgabanner.BGABanner;
-import cn.bingoogolapple.bgabanner.BGABannerUtil;
-import cn.bingoogolapple.bgabanner.BGALocalImageSize;
 
 public class MainActivity extends Activity {
 
